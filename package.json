@@ -1,0 +1,22 @@
+{
+    "name": "Expirements",
+    "version": "1.0.0",
+    "dependencies": {
+        "colors": "^1.2.5",
+        "dateformat": "^3.0.3",
+        "http": "0.0.0",
+        "json2csv": "^4.1.2",
+        "jsonfile": "^4.0.0",
+        "lodash": "^4.17.10",
+        "log-timestamp": "^0.1.2",
+        "mkdirp": "^0.5.1",
+        "mongodb": "^3.0.7",
+        "node-getopt": "^0.3.2",
+        "promisify": "0.0.3",
+        "rimraf": "^2.6.2",
+        "rmdir": "^1.2.0",
+        "string": "^3.3.3",
+        "util": "^0.10.3"
+    },
+    "devDependencies": {}
+}
